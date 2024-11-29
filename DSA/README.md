@@ -13,7 +13,6 @@ Each week consists of:
 - 9 hours of core content (3 × 3-hour sessions)
 - 3 hours of lab/recitation work
 - Programming projects
-- Assessment components
 
 ### Weekly Breakdown:
 1. **Foundations and Analysis** - Algorithm basics and complexity
@@ -115,20 +114,6 @@ Each week consists of:
    - Technical documentation
    - Final presentations
 
-### Assessment Structure
-1. **Continuous Assessment**
-   - Weekly quizzes (10%)
-   - Lab participation (20%)
-   - Programming assignments (40%)
-   - Projects (30%)
-
-2. **Project Evaluation Criteria**
-   - Functionality
-   - Code quality
-   - Documentation
-   - Performance
-   - Presentation
-
 ## Adaptation Guidelines
 
 ### For Different Programming Languages
@@ -181,9 +166,7 @@ Each week consists of:
 
 ## Contributing
 We welcome contributions to improve this curriculum:
-- Bug fixes in example code
 - Additional practice problems
-- Alternative implementations
 - Documentation improvements
 - Real-world examples
 
